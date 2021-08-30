@@ -1,0 +1,81 @@
+{
+  "Errors": [
+    {
+      "Code": "unknown_exception",
+      "Message": "An error has occurred, try again if the error persists contact support.",
+      "Language": "ES"
+    },
+    {
+      "Code": "collection_is_empty",
+      "Message": "The list is Empty"
+    },
+    {
+      "Code": "record_not_found",
+      "Message": "The specified record was not found"
+    },
+    {
+      "Code": "company_name_is_missing",
+      "Message": "You must provide the name of the company "
+    },
+    {
+      "Code": "company_name_exists",
+      "Message": "The Name of the company alredy exists "
+    },
+    {
+      "Code": "record_exists",
+      "Message": "The specified record alredy exists"
+    },
+    {
+      "Code": "customer_company_is_missing",
+      "Message": "You must provide a company for the customer"
+    },
+    {
+      "Code": "customer_name_is_missing",
+      "Message": "You must provide the name of the customer"
+    },
+    {
+      "Code": "customer_name_exists",
+      "Message": "The Name of the customer alredy exists"
+    },
+    {
+      "Code": "customer_last_name_is_missing",
+      "Message": "You must provide the last name of the customer"
+    },
+    {
+      "Code": "customer_phone_number_is_missing",
+      "Message": "You must provide the customers contact number"
+    },
+    {
+      "Code": "customer_phone_number_exists",
+      "Message": "The PhoneNumber of the customer alredy exists"
+    },
+    {
+      "Code": "address_customer_is_missing",
+      "Message": "You must provide a customer for the address"
+    },
+    {
+      "Code": "address_country_is_missing",
+      "Message": "You must provide a country for the address"
+    },
+    {
+      "Code": "address_city_is_missing",
+      "Message": "You must provide a city for the address"
+    },
+    {
+      "Code": "address_is_missing",
+      "Message": "You must provide an address"
+    },
+    {
+      "Code": "address_country_state_is_missing",
+      "Message": "You must provide the state of the country for the address"
+    },
+    {
+      "Code": "address_postal_code_is_missing",
+      "Message": "You must provide the postal code for the address"
+    },
+    {
+      "Code": "address_exists",
+      "Message": "The address of the customer alredy exists"
+    },
+  ]
+}
